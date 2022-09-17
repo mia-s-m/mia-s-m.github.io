@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"resume": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Site Merchandising Coordinator",
+			"Company": "Thrive Market",
+			"Location": "San Francisco, California",
+			"Year": "February 2021 to June 2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Category Specialist",
+			"Company": "Walmart eCommerce",
+			"Location": "San Bruno, California",
+			"Year": "August 2019 to January 2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Marketing and Outreach Assistant",
+			"Company": "UC Davis Air Quality Research Center",
+			"Location": "Davis, California",
+			"Year": "September 2018 to January 2019"
+		},
+		{
+			"Title": "Consumer Insights and Analysis Intern",
+			"Company": "360i",
+			"Location": "New York, New York",
+			"Year": "June 2018 – August 2018"
 		}
 	]
 }
